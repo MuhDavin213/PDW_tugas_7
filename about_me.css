@@ -1,0 +1,30 @@
+.back, a{
+    margin-top: 5px;
+    background-color: transparent;
+    color: brown;
+    text-decoration: none;
+    width: 80px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+    text-align: justify;
+    margin-left: 550;
+    font-size: 20px;
+}   
+.perkenalan{
+    text-align: justify;
+
+
+}
+body{
+    
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("gambar1.jpg");
+  background-size: cover;
+  margin-left: 550px;
+    margin-right: 50%;
+    width: 400px
+    
+}
